@@ -1,0 +1,92 @@
+[
+  {
+    "id": "fraud-en-001",
+    "language": "en",
+    "category": "fraud",
+    "intent": "otp_safety",
+    "question": "Someone is asking for my OTP. Should I share it?",
+    "answer": "Never share your One-Time Password (OTP) with anyone under any circumstances. SafePay, banks, government officials, and police will NEVER ask for your OTP.",
+    "simple_answer": "NO! Never tell your OTP code to anyone. Not to anyone calling you, not to friends, not even to bank staff. Giving your OTP allows strangers to steal your money.",
+    "steps": [
+      "Hang up the phone immediately",
+      "Do not reply to the message",
+      "Keep your phone code private"
+    ],
+    "safety_warning": "DANGER: Anyone asking for your OTP is trying to take money from your bank account.",
+    "source": "RBI / CyberCrime.gov.in",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "fraud-en-002",
+    "language": "en",
+    "category": "fraud",
+    "intent": "pin_safety",
+    "question": "Someone asked me for my UPI PIN. What should I do?",
+    "answer": "Your UPI PIN is your private digital signature. Never type your PIN on anyone else's phone, on websites, or share it in calls, messages, or chat.",
+    "simple_answer": "DO NOT SHARE IT. Your PIN is like the key to your house locker. SafePay will never ask for your PIN. Only type your PIN when you are paying.",
+    "steps": [
+      "Never write or tell your PIN to anyone",
+      "Do not enter it in any chat window",
+      "If you suspect someone saw it, change it immediately in bank settings"
+    ],
+    "safety_warning": "CRITICAL: Never share your UPI PIN with anyone, including customer support.",
+    "source": "NPCI Security Standard",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "fraud-en-003",
+    "language": "en",
+    "category": "fraud",
+    "intent": "lottery_scam",
+    "question": "I got a message saying I won a prize or lottery of ₹50,000, but I must pay ₹500 fee first. Is it real?",
+    "answer": "This is an advance-fee fraud scam. Genuine lotteries or cashbacks never demand payment of processing fees, taxes, or registration charges upfront.",
+    "simple_answer": "This is a scam. You have not won any lottery. Real prizes never ask you to pay money first to collect your prize. Do not send any money.",
+    "steps": [
+      "Do not send the ₹500 or any amount",
+      "Block the sender number",
+      "Report the message in our Safety Center"
+    ],
+    "safety_warning": "WARNING: Any message asking for money to release a prize is a scam.",
+    "source": "CERT-In Advisory",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "fraud-en-004",
+    "language": "en",
+    "category": "fraud",
+    "intent": "kyc_safety",
+    "question": "A message says my bank account or SIM card will be blocked unless I update KYC by clicking a link.",
+    "answer": "Banks never send APK files, third-party download links, or threaten immediate account suspension via personal SMS. This is a KYC phishing attempt.",
+    "simple_answer": "Do not click that link! Banks will never block your account through a simple message or ask you to update KYC on an unknown link. It is a fraud attempt.",
+    "steps": [
+      "Do not click any link in the SMS",
+      "Do not call the phone number in the message",
+      "Visit your real bank branch if you have any questions"
+    ],
+    "safety_warning": "Do not install apps or click links sent in SMS claiming to update KYC.",
+    "source": "RBI Public Advisory",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "fraud-en-005",
+    "language": "en",
+    "category": "fraud",
+    "intent": "emergency_fraud",
+    "question": "I think I was scammed or sent money to a fraudster. What should I do right now?",
+    "answer": "Act immediately: Dial the national cyber fraud helpline 1930 within the golden hour, report the transaction to your bank to freeze the recipient account, and report it on cybercrime.gov.in.",
+    "simple_answer": "Call 1930 immediately! That is the official police cyber helpline. Call your bank right away and tell them you were tricked so they can try to stop the money.",
+    "steps": [
+      "Call 1930 (National Cyber Crime Helpline)",
+      "Call your bank customer care immediately",
+      "Take screenshots of the payment and messages"
+    ],
+    "safety_warning": "Call 1930 immediately to freeze funds before the scammer withdraws them.",
+    "source": "Ministry of Home Affairs / I4C",
+    "source_type": "official",
+    "verified": true
+  }
+]

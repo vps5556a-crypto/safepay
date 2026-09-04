@@ -1,0 +1,105 @@
+{
+  "account": {
+    "accountNumber": "ACC-58291049",
+    "holderName": "VPS",
+    "upiId": "vps55@safepay",
+    "balance": 24800,
+    "currency": "INR",
+    "updatedAt": "2026-09-04T00:33:05.790Z"
+  },
+  "authenticatorConfig": {
+    "largePaymentThreshold": 20000,
+    "maxTransactionsInWindow": 3,
+    "velocityWindowMinutes": 5,
+    "cumulativeAmountThreshold": 20000,
+    "approvalExpiryMinutes": 5,
+    "authenticatorId": "AUTH-001",
+    "authenticatorName": "SafePay Security Authenticator",
+    "protectedUserId": "vps55@safepay",
+    "lastUpdated": "2026-09-04T00:32:21.345Z"
+  },
+  "transactions": [
+    {
+      "id": "TXN-IDEMP-1788481985771",
+      "type": "DEBIT",
+      "amount": 200,
+      "sender": "vps55@safepay",
+      "recipient": "Double Test",
+      "upiId": "doubletest@upi",
+      "status": "SUCCESS",
+      "riskLevel": "LOW",
+      "note": "",
+      "previousBalance": 25000,
+      "newBalance": 24800,
+      "authorizationId": "AUTH-TOKEN-1788481985771-42086",
+      "date": "2026-09-04T00:33:05.792Z"
+    },
+    {
+      "id": "TXN-1788481985444-6120",
+      "type": "DEBIT",
+      "amount": 25000,
+      "sender": "vps55@safepay",
+      "recipient": "Ravi",
+      "upiId": "ravi@upi",
+      "status": "SUCCESS",
+      "riskLevel": "LOW",
+      "note": "",
+      "previousBalance": 50000,
+      "newBalance": 25000,
+      "authorizationId": "AUTH-TOKEN-1788481985459-61253",
+      "date": "2026-09-04T00:33:05.480Z"
+    },
+    {
+      "id": "tx-101",
+      "type": "DEBIT",
+      "recipient": "Rahul Kumar",
+      "upiId": "rahul@upi",
+      "amount": 2000,
+      "status": "SUCCESS",
+      "riskLevel": "LOW",
+      "note": "Rent payment",
+      "previousBalance": 27000,
+      "newBalance": 25000,
+      "date": "2026-09-03T22:32:21.345Z"
+    },
+    {
+      "id": "tx-102",
+      "type": "DEBIT",
+      "recipient": "Electricity Board",
+      "upiId": "billdesk@sbi",
+      "amount": 1450,
+      "status": "SUCCESS",
+      "riskLevel": "LOW",
+      "note": "Monthly electricity bill",
+      "previousBalance": 28450,
+      "newBalance": 27000,
+      "date": "2026-09-03T06:32:21.345Z"
+    },
+    {
+      "id": "tx-103",
+      "type": "DEBIT",
+      "recipient": "Unknown Merchant",
+      "upiId": "lottery_verify@paytm",
+      "amount": 5000,
+      "status": "BLOCKED",
+      "riskLevel": "CRITICAL",
+      "note": "Suspected prize lottery scam",
+      "previousBalance": 28450,
+      "newBalance": 28450,
+      "date": "2026-09-02T22:32:21.345Z"
+    },
+    {
+      "id": "tx-104",
+      "type": "DEBIT",
+      "recipient": "Grocery Mart",
+      "upiId": "groceries@hdfc",
+      "amount": 450,
+      "status": "SUCCESS",
+      "riskLevel": "LOW",
+      "note": "Vegetables and fruits",
+      "previousBalance": 28900,
+      "newBalance": 28450,
+      "date": "2026-09-02T00:32:21.345Z"
+    }
+  ]
+}

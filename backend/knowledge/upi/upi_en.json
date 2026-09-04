@@ -1,0 +1,75 @@
+[
+  {
+    "id": "upi-en-001",
+    "language": "en",
+    "category": "upi",
+    "intent": "upi_explanation",
+    "question": "What is UPI and how does it work?",
+    "answer": "UPI (Unified Payments Interface) is a direct, instant bank-to-bank transfer system regulated by the Reserve Bank of India (RBI) and NPCI that lets you send money using a phone number, UPI ID, or QR code without typing long bank account numbers.",
+    "simple_answer": "UPI lets you send money directly from your bank to another person's bank in 5 seconds using your phone. It is like digital cash made by Indian banks.",
+    "steps": [
+      "No need for bank branch visits",
+      "Works 24 hours every day",
+      "Money goes straight into the bank account"
+    ],
+    "safety_warning": null,
+    "source": "NPCI / RBI Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "upi-en-002",
+    "language": "en",
+    "category": "upi",
+    "intent": "upi_pin",
+    "question": "When do I need to enter my UPI PIN?",
+    "answer": "You only enter your UPI PIN when SENDING money from your account. You NEVER need to enter your UPI PIN to RECEIVE money.",
+    "simple_answer": "Only enter your secret PIN when YOU are sending money out. You never ever need to enter your PIN to receive money or get a prize.",
+    "steps": [
+      "Sending money = Enter PIN on secure screen",
+      "Receiving money = NEVER enter PIN",
+      "Never tell your PIN to anyone"
+    ],
+    "safety_warning": "CRITICAL: If anyone asks you to enter your PIN to receive money, prize, or refund, it is 100% a scam!",
+    "source": "NPCI / CERT-In Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "upi-en-003",
+    "language": "en",
+    "category": "upi",
+    "intent": "qr_payment",
+    "question": "How do I pay using a QR code?",
+    "answer": "To pay via QR code, tap Scan & Pay, point your camera at the shop's QR stand, verify the merchant's real name on screen, enter the amount, and confirm.",
+    "simple_answer": "Tap 'Scan & Pay', point your phone camera at the QR code square in the shop. Check the shop name on your screen before you pay.",
+    "steps": [
+      "Tap Scan & Pay",
+      "Point phone camera at QR code",
+      "Check shop name",
+      "Enter amount and pay"
+    ],
+    "safety_warning": "Never scan a QR code sent to you on WhatsApp or SMS to 'receive' money.",
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "upi-en-004",
+    "language": "en",
+    "category": "upi",
+    "intent": "upi_id",
+    "question": "What is a UPI ID?",
+    "answer": "A UPI ID is your digital payment address linked to your bank account, looking like 'yourname@safepay' or 'phone@upi'. You can share it to receive money safely.",
+    "simple_answer": "Your UPI ID is like an email address for your bank. You can give it to friends so they can send money straight into your account.",
+    "steps": [
+      "Find it on your home screen",
+      "Tap copy to share with family or friends",
+      "It is safe to share (unlike your PIN or OTP)"
+    ],
+    "safety_warning": null,
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  }
+]

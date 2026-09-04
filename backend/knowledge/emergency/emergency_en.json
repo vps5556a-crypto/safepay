@@ -1,0 +1,38 @@
+[
+  {
+    "id": "emg-en-001",
+    "language": "en",
+    "category": "emergency",
+    "intent": "emergency_fraud",
+    "question": "I was cheated. I sent money to a fraudster.",
+    "answer": "Immediately call 1930 (National Cyber Crime Reporting Helpline) and contact your bank to freeze the recipient's bank account before money is withdrawn.",
+    "simple_answer": "Call 1930 right now! That is the cyber police helpline. Then call your bank customer support immediately to freeze the money.",
+    "steps": [
+      "Call 1930 immediately",
+      "Call your bank's fraud reporting line",
+      "Report on cybercrime.gov.in"
+    ],
+    "safety_warning": "Call within the first 1-2 hours (golden period) for highest recovery chance.",
+    "source": "MHA Indian Cybercrime Coordination Centre (I4C)",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "safe-en-001",
+    "language": "en",
+    "category": "safety",
+    "intent": "payment_safety",
+    "question": "What does a red or yellow warning on payment mean?",
+    "answer": "A yellow warning means medium risk, such as a brand new recipient you haven't paid before. A red warning indicates high risk, such as suspected fraud or sudden unexpected transfer amounts.",
+    "simple_answer": "Yellow means take an extra moment to check the name. Red means DANGER: stop and do not pay unless you are 100% sure you know this person in real life.",
+    "steps": [
+      "Yellow = Review name and amount carefully",
+      "Red = Stop and call the person directly on phone to verify",
+      "Never pay if pressured by strangers"
+    ],
+    "safety_warning": "If a screen is red, do not press confirm without verifying.",
+    "source": "SafePay Safety Engine",
+    "source_type": "official",
+    "verified": true
+  }
+]

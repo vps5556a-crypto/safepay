@@ -1,0 +1,16 @@
+{
+  "dataset_name": "SafePay-Multilingual-Assistant-Intent-v1",
+  "total_samples": 52000,
+  "train_samples": 36400,
+  "val_samples": 7800,
+  "test_samples": 7800,
+  "languages": [
+    "en",
+    "hi",
+    "ta",
+    "hinglish",
+    "tanglish"
+  ],
+  "taxonomies_count": 46,
+  "safety_critical_count": 5004
+}

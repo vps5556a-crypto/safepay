@@ -1,0 +1,93 @@
+[
+  {
+    "id": "hinglish-001",
+    "language": "hinglish",
+    "category": "payments",
+    "intent": "payment_send",
+    "question": "Paise kaise send karu? Ravi ko 500 rupees send karna hai.",
+    "answer": "Home screen pe Send Money button dabayein, recipient ka naam select karein, amount dalein, safety check dekhein aur Confirm Payment dabayein.",
+    "simple_answer": "Screen par 'Send Money' button dabao. Mujhe batao kise aur kitne paise bhejne hain. Main payment screen par lekar chalunga, fir aap khud button daba kar confirm karna.",
+    "steps": [
+      "'Send Money' par tap karo",
+      "Kise bhejna hai uska naam chuno",
+      "Rupaye likho",
+      "Details verify karke khud Confirm Payment dabao"
+    ],
+    "safety_warning": "Paisa bhejne se pehle recipient ka naam dhyan se check karein.",
+    "source": "SafePay Hinglish Dataset",
+    "source_type": "generated",
+    "verified": true
+  },
+  {
+    "id": "hinglish-002",
+    "language": "hinglish",
+    "category": "fraud",
+    "intent": "otp_safety",
+    "question": "OTP kisi ko dena hai kya? Phone par OTP mang rahe hain.",
+    "answer": "Khabardaar! Kisi ko bhi apna OTP mat do. SafePay ya bank phone pe kabhi OTP nahi mangte.",
+    "simple_answer": "BILKUL NAHI! Apna OTP kisi ko mat dena. OTP share karte hi aapke bank se paise chori ho jayenge. Call turant cut kar do.",
+    "steps": [
+      "Phone call turant kaat do",
+      "Message ka reply mat do",
+      "Apna phone code private rakho"
+    ],
+    "safety_warning": "DANGER: OTP mangne wala fraud hai, paise chura lega.",
+    "source": "SafePay Hinglish Safety",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "tanglish-001",
+    "language": "tanglish",
+    "category": "payments",
+    "intent": "payment_send",
+    "question": "Money epdi send panradhu? Ravi ku 500 send pannanum.",
+    "answer": "Home screen la Send Money button press pannunga. Ravi name select panni 500 rupees enter pannunga. Details check pannitu Confirm Payment click pannunga.",
+    "simple_answer": "Blue colour 'Send Money' button press pannunga. Yaaruku evlo anuppanum nu sollunga. Details verify pannitu neengale Confirm Payment click panni mudikalam.",
+    "steps": [
+      "'Send Money' press pannunga",
+      "Recipient name select pannunga",
+      "Amount enter pannunga",
+      "Name check pannitu neengale Confirm Payment click pannunga"
+    ],
+    "safety_warning": "Money send pandradhuku munnadi name crt-aa irukaanu check pannunga.",
+    "source": "SafePay Tanglish Dataset",
+    "source_type": "generated",
+    "verified": true
+  },
+  {
+    "id": "tanglish-002",
+    "language": "tanglish",
+    "category": "fraud",
+    "intent": "otp_safety",
+    "question": "OTP share pannalama? Phone la OTP kekuranga.",
+    "answer": "Koodave koodadhu! Yarukkum OTP share panna koodadhu. Bank or SafePay eppovume phone la OTP keka maattanga.",
+    "simple_answer": "VENAAM! Yarukkum OTP sollathinga. OTP sonna unga bank la irundhu money thirudiduvanga. Udane call-a cut pannunga.",
+    "steps": [
+      "Udane call cut pannunga",
+      "Message ku reply panna venaam",
+      "Secret code yaarukkum tharathinga"
+    ],
+    "safety_warning": "DANGER: OTP keka yaravathu call panna athu scam!",
+    "source": "SafePay Tanglish Safety",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "tanglish-003",
+    "language": "tanglish",
+    "category": "banking",
+    "intent": "balance_check",
+    "question": "Balance enga irukku? En account la evlo money irukku?",
+    "answer": "Home screen la mela irukura blue card la unga Available Balance irukum. Eye symbol click panna amount theriyum.",
+    "simple_answer": "Screen ku mela irukura blue card paarunga. Anga unga bank la irukura balance kaatum.",
+    "steps": [
+      "Home screen paarunga",
+      "Mela irukura blue card check pannunga"
+    ],
+    "safety_warning": null,
+    "source": "SafePay Tanglish Dataset",
+    "source_type": "generated",
+    "verified": true
+  }
+]

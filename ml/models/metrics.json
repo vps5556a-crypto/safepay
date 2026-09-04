@@ -1,0 +1,18 @@
+{
+  "model_version": "safepay-nlp-v1.0",
+  "dataset_samples": 895,
+  "train_samples": 716,
+  "test_samples": 179,
+  "accuracy": 0.9777,
+  "precision": 0.913,
+  "recall": 1.0,
+  "scam_recall": 1.0,
+  "f1_score": 0.9545,
+  "false_positive_rate": 0.0292,
+  "confusion_matrix": {
+    "true_negatives_legit": 133,
+    "false_positives": 4,
+    "false_negatives": 0,
+    "true_positives_scam": 42
+  }
+}

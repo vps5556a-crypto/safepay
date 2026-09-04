@@ -1,0 +1,5372 @@
+[
+  {
+    "text": "Your payment of ₹500 to Rahul was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your UPI payment of ₹2,000 to Rahul Kumar was successful. Ref No: 492019482910.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 paid to Grocery Mart via HDFC UPI. Available balance: ₹24,550.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your account ACC-58291049 has been credited with ₹65,000 towards monthly salary from TechCorp Ltd.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Electricity bill of ₹1,450 paid successfully via BillDesk. Consumer No: 9812401.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹350 paid to Swiggy for Order #82910. Thank you for using Google Pay.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "ATM withdrawal of ₹2,000 from SBI ATM at MG Road. Txn ID: 9102830.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your monthly credit card statement for ending 4091 is now generated. Total due: ₹3,240.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Dear customer, your FD interest of ₹1,250 has been credited to savings account.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Received ₹1,500 from Priya Sharma via PhonePe. Message: Movie tickets.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Payment of ₹199 to Netflix subscription renewed successfully.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Recharge of ₹299 for Airtel mobile +91 9876543210 successful. Validity: 28 days.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10,000 transferred to Mother's savings account via NEFT. UTR: HDFCN8291048.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your Zomato order has been delivered. Enjoy your meal!",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your Fastag account has been recharged with ₹1,000. Balance: ₹1,420.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "SIP installment of ₹5,000 towards Nifty 50 Index Fund debited successfully.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Rahul, please send me ₹500 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey, could you send ₹200 for the coffee we had earlier?",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Can you split the dinner bill? Your share is ₹650.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please transfer ₹1,200 for the cab fare from airport.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Dad, I need ₹3,000 for college books purchase.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Bro, I sent you ₹500 on GPay. Let me know when you receive it.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Paid the flat maintenance of ₹2,500. Please send your 50% share ₹1,250.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Thanks for paying for lunch yesterday. I just sent you ₹400.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Can you pay the milkman ₹800 today? I'll repay you when I get home.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Bhai ₹200 bhej de chai sutta ka, sham ko wapas karta hu.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "hinglish"
+  },
+  {
+    "text": "Mummy ko dawai ke liye ₹1,500 transfer kar diye hain.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "hinglish"
+  },
+  {
+    "text": "Sir, society maintenance receipt attached for ₹2,400.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your bank account will be blocked today. Send ₹2,000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear SBI user, your YONO account has been suspended due to pending security update. Send ₹1,000 to reactivate or visit http://sbi-unblock.xyz.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "URGENT: Your HDFC NetBanking is deactivated. Transfer ₹500 verification amount to upi: verify_hdfc@paytm within 2 hours.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "ICICI Alert: Unauthorized login attempt detected from Russia. Transfer your balance to Safe Account to protect funds.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Your debit card has been disabled. Send ₹1,500 immediately for security unblocking.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Bank alert: Your account is on hold. Pay ₹2,500 unfreeze fee to resume transactions.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Account block ho jayega 2 ghante me. Turant ₹1,000 verify karo is link pe.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "hinglish"
+  },
+  {
+    "text": "Apka SBI khata band hone wala hai. Abhi ₹2,000 bhejkar chalu karein.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "hinglish"
+  },
+  {
+    "text": "Bank of Baroda warning: Account dormancy alert. Pay ₹500 activation fee.",
+    "label": "scam",
+    "category": "ACCOUNT_VERIFICATION",
+    "language": "en"
+  },
+  {
+    "text": "Account verification mandatory within 30 minutes or permanent termination.",
+    "label": "scam",
+    "category": "ACCOUNT_VERIFICATION",
+    "language": "en"
+  },
+  {
+    "text": "Your KYC has expired today. Your bank account will be closed in 24 hours. Update KYC now at http://kyc-bank-portal.online.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Paytm Alert: Your Paytm KYC is incomplete. Your wallet will be blocked. Send ₹10 for KYC verification to 9812938192@paytm.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Dear customer, your SIM card will be deactivated tonight due to missing Aadhaar KYC. Call customer care 9182910283 and pay ₹50.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Bank KYC document re-verification mandatory under RBI guidelines. Pay ₹100 filing fee immediately.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Aadhaar PAN link failed. Pay fine of ₹1,000 to avoid bank freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Apka KYC expire ho gaya hai. Abhi ₹10 bhejkar verify karein warna account band.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "hinglish"
+  },
+  {
+    "text": "Share the OTP you received to complete your refund.",
+    "label": "scam",
+    "category": "OTP_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Bank security team calling: We stopped a fraud transaction of ₹15,000. Please read out the 6-digit OTP to reverse it.",
+    "label": "scam",
+    "category": "OTP_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Enter your 4-digit UPI PIN to receive ₹5,000 cashback directly in your bank account.",
+    "label": "scam",
+    "category": "PIN_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Please tell me the OTP sent to your phone to confirm your delivery cancellation.",
+    "label": "scam",
+    "category": "OTP_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Type your UPI PIN on this page to claim ₹10,000 government subsidy.",
+    "label": "scam",
+    "category": "PIN_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Sir, verification ke liye mobile par aya OTP batayein turant.",
+    "label": "scam",
+    "category": "OTP_THEFT",
+    "language": "hinglish"
+  },
+  {
+    "text": "Paisa pane ke liye apna UPI PIN dalein.",
+    "label": "scam",
+    "category": "PIN_THEFT",
+    "language": "hinglish"
+  },
+  {
+    "text": "Scan this QR code and approve the request to receive ₹8,000 for your OLX sofa.",
+    "label": "scam",
+    "category": "UPI_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "I have sent you a payment request of ₹5,000 on PhonePe. Click Pay to accept money into your account.",
+    "label": "scam",
+    "category": "PAYMENT_REQUEST_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Accept the collect request of ₹2,500 to activate your merchant QR settlement.",
+    "label": "scam",
+    "category": "PAYMENT_REQUEST_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Money transfer failed: Approve ₹1 debit transaction on Google Pay to clear stuck payment of ₹12,000.",
+    "label": "scam",
+    "category": "UPI_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "OLX buyer: QR code scan karke accept karo, paisa apke account me aa jayega.",
+    "label": "scam",
+    "category": "UPI_SCAM",
+    "language": "hinglish"
+  },
+  {
+    "text": "Congratulations! You won ₹50,000. Send ₹500 processing fee to claim your prize.",
+    "label": "scam",
+    "category": "PRIZE_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "You have won a brand new Tata Safari in Jio 5G Lucky Draw! Deposit ₹25,000 registration tax to dispatch car.",
+    "label": "scam",
+    "category": "LOTTERY_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "KBC Winner: You won ₹25,00,000 lottery from Amitabh Bachchan KBC! Call Rana Pratap Singh on WhatsApp and pay ₹5,500 file charge.",
+    "label": "scam",
+    "category": "LOTTERY_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "You received ₹1,999 cashback voucher on PhonePe! Send ₹99 to activate cashback in your account.",
+    "label": "scam",
+    "category": "CASHBACK_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Claim your Amazon Diwali ₹10,000 gift voucher now. Pay ₹199 shipping charge to receive voucher code.",
+    "label": "scam",
+    "category": "PRIZE_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Mubarak ho! Aapne ₹50,000 jeete hain. Claim karne ke liye ₹500 fee bhejein.",
+    "label": "scam",
+    "category": "PRIZE_SCAM",
+    "language": "hinglish"
+  },
+  {
+    "text": "Your electricity bill was charged twice ₹1,450. To receive your instant refund, install AnyDesk / TeamViewer and share code.",
+    "label": "scam",
+    "category": "REFUND_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Amazon customer care: We are issuing refund of ₹4,999 for returned laptop bag. Click link to enter UPI ID and claim.",
+    "label": "scam",
+    "category": "REFUND_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "IRCTC refund of ₹1,850 pending. Approve the payment request to initiate refund.",
+    "label": "scam",
+    "category": "REFUND_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Income tax refund of ₹14,200 approved. Pay ₹500 processing fee to credit to bank account.",
+    "label": "scam",
+    "category": "REFUND_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Pre-approved instant personal loan of ₹5,00,000 at 1% interest without documents. Pay ₹1,999 loan insurance fee to disburse.",
+    "label": "scam",
+    "category": "LOAN_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Dhani Loan Approval: Your loan of ₹2,50,000 is ready. Deposit ₹2,500 NOC charges on UPI.",
+    "label": "scam",
+    "category": "LOAN_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Work from home part-time, earn ₹5,000 daily from home. Pay ₹999 registration fee.",
+    "label": "scam",
+    "category": "JOB_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Earn ₹1,000 to ₹3,000 per hour by liking YouTube videos and rating hotels on Google Maps. Pay ₹1,500 VIP activation deposit.",
+    "label": "scam",
+    "category": "JOB_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Part-time job offer: Like 5 Instagram posts and earn ₹500. Join our Telegram task group and send ₹1,000 task deposit.",
+    "label": "scam",
+    "category": "JOB_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Double your money in 24 hours with guaranteed crypto mining profits. Invest ₹5,000 and withdraw ₹10,000 tomorrow.",
+    "label": "scam",
+    "category": "INVESTMENT_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Exclusive stock market insider trading group: 100% daily returns. Send ₹10,000 joining fee to our UPI analyst.",
+    "label": "scam",
+    "category": "INVESTMENT_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Invest ₹2,000 in Bitcoin cloud trading and get ₹500 daily passive income directly in bank account.",
+    "label": "scam",
+    "category": "CRYPTO_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Delhi Police Cyber Crime: A non-bailable arrest warrant has been issued in your name for cyber fraud. Pay ₹25,000 bail settlement immediately.",
+    "label": "scam",
+    "category": "POLICE_IMPERSONATION",
+    "language": "en"
+  },
+  {
+    "text": "CBI Officer Sharma: Illegal drugs found in parcel sent to Taiwan with your Aadhaar. Transfer ₹50,000 to RBI verification account to avoid jail.",
+    "label": "scam",
+    "category": "POLICE_IMPERSONATION",
+    "language": "en"
+  },
+  {
+    "text": "Ministry of Finance: Penalty of ₹5,000 levied for late GST tax filing. Pay immediately or bank accounts will be attached.",
+    "label": "scam",
+    "category": "GOVERNMENT_IMPERSONATION",
+    "language": "en"
+  },
+  {
+    "text": "Electricity Board Officer: Your electricity power supply will be cut off tonight at 9:30 PM. Call 9812038102 and pay overdue immediately.",
+    "label": "scam",
+    "category": "GOVERNMENT_IMPERSONATION",
+    "language": "en"
+  },
+  {
+    "text": "India Post: Your package could not be delivered due to incorrect house number. Pay ₹25 re-delivery fee at http://indiapost-update.xyz.",
+    "label": "scam",
+    "category": "DELIVERY_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "BlueDart tracking: International courier package detained at customs. Pay ₹1,500 duty fee to release shipment.",
+    "label": "scam",
+    "category": "PARCEL_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "FedEx: Your courier parcel is on hold. Click here to confirm shipping address and pay ₹50 delivery charge.",
+    "label": "scam",
+    "category": "PARCEL_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Hi darling, I'm stuck at Delhi airport customs with gold jewelry gifts for you. Please transfer ₹30,000 customs clearance fee urgently.",
+    "label": "scam",
+    "category": "ROMANCE_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "We have recorded your private webcam video. Send ₹15,000 to this UPI ID or we will publish it to all your contacts on WhatsApp.",
+    "label": "scam",
+    "category": "SEXTORTION",
+    "language": "en"
+  },
+  {
+    "text": "Click this link to download new WhatsApp Pink with secret themes: http://apk-download-free.xyz/whatsapp.apk",
+    "label": "scam",
+    "category": "MALICIOUS_LINK",
+    "language": "en"
+  },
+  {
+    "text": "Urgent from your boss: I am in a board meeting and need you to buy 5 Apple gift cards worth ₹10,000 immediately.",
+    "label": "scam",
+    "category": "SOCIAL_ENGINEERING",
+    "language": "en"
+  },
+  {
+    "text": "Security Alert: Verify your payment credentials at http://safepay-verify-portal.top or account will be terminated.",
+    "label": "scam",
+    "category": "OTHER_FINANCIAL_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to rahulkumar@upi. Transaction ref: 223005401501.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rahul, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please send me ₹100 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to rahulkumar@upi. Transaction ref: 911856239313.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rahul, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please send me ₹250 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to rahulkumar@upi. Transaction ref: 367469214295.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rahul, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please send me ₹450 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to rahulkumar@upi. Transaction ref: 251282538206.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rahul, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please send me ₹500 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to rahulkumar@upi. Transaction ref: 214832269481.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rahul, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please send me ₹750 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to rahulkumar@upi. Transaction ref: 914655221101.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rahul, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please send me ₹1200 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to rahulkumar@upi. Transaction ref: 700832336208.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rahul, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please send me ₹1450 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to rahulkumar@upi. Transaction ref: 748913461122.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rahul, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please send me ₹2000 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to rahulkumar@upi. Transaction ref: 136171878809.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rahul, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please send me ₹3500 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to rahulkumar@upi. Transaction ref: 198912225902.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rahul, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Please send me ₹5000 for groceries. I'll return it tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to rahulkumar@upi. Transaction ref: 354342113419.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to rahulkumar@upi. Transaction ref: 763595448017.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Rahul Kumar was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to rahulkumar@upi. Transaction ref: 714294294451.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to priyasharma@upi. Transaction ref: 886833016361.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Priya, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to priyasharma@upi. Transaction ref: 871590378377.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Priya, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to priyasharma@upi. Transaction ref: 561902006518.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Priya, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to priyasharma@upi. Transaction ref: 590573056992.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Priya, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to priyasharma@upi. Transaction ref: 407473554860.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Priya, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to priyasharma@upi. Transaction ref: 933251567391.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Priya, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to priyasharma@upi. Transaction ref: 275259659197.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Priya, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to priyasharma@upi. Transaction ref: 566854953850.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Priya, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to priyasharma@upi. Transaction ref: 406404042870.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Priya, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to priyasharma@upi. Transaction ref: 336890980656.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Priya, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to priyasharma@upi. Transaction ref: 941629821539.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to priyasharma@upi. Transaction ref: 213114812281.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Priya Sharma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to priyasharma@upi. Transaction ref: 517010168081.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to amitpatel@upi. Transaction ref: 491257417623.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Amit, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to amitpatel@upi. Transaction ref: 481597082643.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Amit, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to amitpatel@upi. Transaction ref: 390355792387.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Amit, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to amitpatel@upi. Transaction ref: 150711229823.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Amit, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to amitpatel@upi. Transaction ref: 605645347792.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Amit, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to amitpatel@upi. Transaction ref: 235447068293.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Amit, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to amitpatel@upi. Transaction ref: 187525138707.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Amit, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to amitpatel@upi. Transaction ref: 424493543665.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Amit, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to amitpatel@upi. Transaction ref: 790757033266.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Amit, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to amitpatel@upi. Transaction ref: 498837994177.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Amit, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to amitpatel@upi. Transaction ref: 312933106111.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to amitpatel@upi. Transaction ref: 176040557040.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Amit Patel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to amitpatel@upi. Transaction ref: 826046287257.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to sneharoy@upi. Transaction ref: 947087372942.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Sneha, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to sneharoy@upi. Transaction ref: 517045625552.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Sneha, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to sneharoy@upi. Transaction ref: 599410093881.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Sneha, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to sneharoy@upi. Transaction ref: 277660601409.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Sneha, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to sneharoy@upi. Transaction ref: 488136971784.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Sneha, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to sneharoy@upi. Transaction ref: 835339233454.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Sneha, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to sneharoy@upi. Transaction ref: 869945806981.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Sneha, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to sneharoy@upi. Transaction ref: 851347210313.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Sneha, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to sneharoy@upi. Transaction ref: 180092702123.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Sneha, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to sneharoy@upi. Transaction ref: 798400899699.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Sneha, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to sneharoy@upi. Transaction ref: 684850587137.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to sneharoy@upi. Transaction ref: 369419548116.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Sneha Roy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to sneharoy@upi. Transaction ref: 607507949295.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to vikramsingh@upi. Transaction ref: 397982492151.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Vikram, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to vikramsingh@upi. Transaction ref: 858663022120.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Vikram, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to vikramsingh@upi. Transaction ref: 342910249529.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Vikram, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to vikramsingh@upi. Transaction ref: 459422681391.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Vikram, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to vikramsingh@upi. Transaction ref: 945433611429.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Vikram, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to vikramsingh@upi. Transaction ref: 163462436409.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Vikram, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to vikramsingh@upi. Transaction ref: 984901132451.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Vikram, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to vikramsingh@upi. Transaction ref: 539441524732.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Vikram, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to vikramsingh@upi. Transaction ref: 169869415070.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Vikram, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to vikramsingh@upi. Transaction ref: 726820024292.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Vikram, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to vikramsingh@upi. Transaction ref: 889742985454.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to vikramsingh@upi. Transaction ref: 333279765207.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Vikram Singh was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to vikramsingh@upi. Transaction ref: 648275934229.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to ananyagupta@upi. Transaction ref: 808302588517.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Ananya, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to ananyagupta@upi. Transaction ref: 256589576361.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Ananya, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to ananyagupta@upi. Transaction ref: 251461507038.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Ananya, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to ananyagupta@upi. Transaction ref: 917103043320.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Ananya, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to ananyagupta@upi. Transaction ref: 690821577339.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Ananya, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to ananyagupta@upi. Transaction ref: 921467220156.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Ananya, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to ananyagupta@upi. Transaction ref: 570662212985.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Ananya, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to ananyagupta@upi. Transaction ref: 743806247029.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Ananya, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to ananyagupta@upi. Transaction ref: 496852403351.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Ananya, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to ananyagupta@upi. Transaction ref: 254608246768.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Ananya, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to ananyagupta@upi. Transaction ref: 643354278056.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to ananyagupta@upi. Transaction ref: 929319141080.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Ananya Gupta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to ananyagupta@upi. Transaction ref: 267974663989.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to rohanmehta@upi. Transaction ref: 274493552068.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rohan, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to rohanmehta@upi. Transaction ref: 850726264460.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rohan, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to rohanmehta@upi. Transaction ref: 754648192232.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rohan, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to rohanmehta@upi. Transaction ref: 521179644432.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rohan, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to rohanmehta@upi. Transaction ref: 754474071330.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rohan, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to rohanmehta@upi. Transaction ref: 615379416985.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rohan, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to rohanmehta@upi. Transaction ref: 377150435753.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rohan, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to rohanmehta@upi. Transaction ref: 709761138617.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rohan, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to rohanmehta@upi. Transaction ref: 847373620112.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rohan, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to rohanmehta@upi. Transaction ref: 227649528249.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Rohan, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to rohanmehta@upi. Transaction ref: 926939990836.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to rohanmehta@upi. Transaction ref: 942959595464.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Rohan Mehta was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to rohanmehta@upi. Transaction ref: 476415064723.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to poojaverma@upi. Transaction ref: 422601660137.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Pooja, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to poojaverma@upi. Transaction ref: 273665994394.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Pooja, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to poojaverma@upi. Transaction ref: 101948728483.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Pooja, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to poojaverma@upi. Transaction ref: 894370590668.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Pooja, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to poojaverma@upi. Transaction ref: 894035742189.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Pooja, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to poojaverma@upi. Transaction ref: 939668623711.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Pooja, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to poojaverma@upi. Transaction ref: 654818085172.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Pooja, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to poojaverma@upi. Transaction ref: 219883823727.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Pooja, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to poojaverma@upi. Transaction ref: 790933616150.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Pooja, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to poojaverma@upi. Transaction ref: 656795048359.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Pooja, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to poojaverma@upi. Transaction ref: 317363871943.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to poojaverma@upi. Transaction ref: 508678332797.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Pooja Verma was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to poojaverma@upi. Transaction ref: 279368618081.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to grocerymart@upi. Transaction ref: 757132452561.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Grocery, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to grocerymart@upi. Transaction ref: 638263151675.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Grocery, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to grocerymart@upi. Transaction ref: 220342736258.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Grocery, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to grocerymart@upi. Transaction ref: 499127439409.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Grocery, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to grocerymart@upi. Transaction ref: 988335239225.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Grocery, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to grocerymart@upi. Transaction ref: 363313768191.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Grocery, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to grocerymart@upi. Transaction ref: 362241791770.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Grocery, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to grocerymart@upi. Transaction ref: 726541280440.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Grocery, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to grocerymart@upi. Transaction ref: 189966462838.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Grocery, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to grocerymart@upi. Transaction ref: 903526763113.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Grocery, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to grocerymart@upi. Transaction ref: 995440510689.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to grocerymart@upi. Transaction ref: 687382313669.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Grocery Mart was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to grocerymart@upi. Transaction ref: 240728187316.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to apollopharmacy@upi. Transaction ref: 822105942877.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Apollo, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to apollopharmacy@upi. Transaction ref: 282750014896.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Apollo, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to apollopharmacy@upi. Transaction ref: 680958994499.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Apollo, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to apollopharmacy@upi. Transaction ref: 769467002266.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Apollo, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to apollopharmacy@upi. Transaction ref: 931244947195.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Apollo, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to apollopharmacy@upi. Transaction ref: 859049274154.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Apollo, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to apollopharmacy@upi. Transaction ref: 882547985119.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Apollo, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to apollopharmacy@upi. Transaction ref: 539425475482.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Apollo, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to apollopharmacy@upi. Transaction ref: 838713541566.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Apollo, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to apollopharmacy@upi. Transaction ref: 510813098126.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Apollo, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to apollopharmacy@upi. Transaction ref: 596144210356.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to apollopharmacy@upi. Transaction ref: 371102648727.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Apollo Pharmacy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to apollopharmacy@upi. Transaction ref: 169684544463.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to swiggy@upi. Transaction ref: 122926902939.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Swiggy, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to swiggy@upi. Transaction ref: 708117155426.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Swiggy, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to swiggy@upi. Transaction ref: 745233429651.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Swiggy, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to swiggy@upi. Transaction ref: 105240793782.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Swiggy, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to swiggy@upi. Transaction ref: 877693993558.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Swiggy, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to swiggy@upi. Transaction ref: 167135076022.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Swiggy, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to swiggy@upi. Transaction ref: 173997741524.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Swiggy, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to swiggy@upi. Transaction ref: 138248487718.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Swiggy, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to swiggy@upi. Transaction ref: 464469358785.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Swiggy, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to swiggy@upi. Transaction ref: 662945045779.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Swiggy, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to swiggy@upi. Transaction ref: 405964900141.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to swiggy@upi. Transaction ref: 635449182375.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Swiggy was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to swiggy@upi. Transaction ref: 693625626938.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to zomato@upi. Transaction ref: 895137224815.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Zomato, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to zomato@upi. Transaction ref: 733812803930.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Zomato, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to zomato@upi. Transaction ref: 368318078969.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Zomato, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to zomato@upi. Transaction ref: 623060957599.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Zomato, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to zomato@upi. Transaction ref: 550144771997.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Zomato, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to zomato@upi. Transaction ref: 203897019487.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Zomato, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to zomato@upi. Transaction ref: 821970820395.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Zomato, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to zomato@upi. Transaction ref: 488398407379.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Zomato, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to zomato@upi. Transaction ref: 552790822417.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Zomato, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to zomato@upi. Transaction ref: 158965931802.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Zomato, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to zomato@upi. Transaction ref: 820151617123.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to zomato@upi. Transaction ref: 812896561232.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Zomato was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to zomato@upi. Transaction ref: 164847210990.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to electricityboard@upi. Transaction ref: 900593162298.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Electricity, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to electricityboard@upi. Transaction ref: 977630621959.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Electricity, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to electricityboard@upi. Transaction ref: 219664972382.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Electricity, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to electricityboard@upi. Transaction ref: 311521368324.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Electricity, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to electricityboard@upi. Transaction ref: 689227460591.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Electricity, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to electricityboard@upi. Transaction ref: 252250635901.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Electricity, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to electricityboard@upi. Transaction ref: 299380463457.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Electricity, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to electricityboard@upi. Transaction ref: 608002483225.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Electricity, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to electricityboard@upi. Transaction ref: 185569774204.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Electricity, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to electricityboard@upi. Transaction ref: 986666495028.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Electricity, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to electricityboard@upi. Transaction ref: 209737811619.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to electricityboard@upi. Transaction ref: 813181846360.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Electricity Board was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to electricityboard@upi. Transaction ref: 696997372373.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to airtel@upi. Transaction ref: 116475613040.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Airtel, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to airtel@upi. Transaction ref: 202946055043.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Airtel, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to airtel@upi. Transaction ref: 928612436713.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Airtel, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to airtel@upi. Transaction ref: 361343158181.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Airtel, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to airtel@upi. Transaction ref: 547390899554.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Airtel, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to airtel@upi. Transaction ref: 630366790167.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Airtel, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to airtel@upi. Transaction ref: 280640463568.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Airtel, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to airtel@upi. Transaction ref: 101627677155.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Airtel, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to airtel@upi. Transaction ref: 529433631560.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Airtel, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to airtel@upi. Transaction ref: 962361016774.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Airtel, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to airtel@upi. Transaction ref: 415486858682.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to airtel@upi. Transaction ref: 866320981994.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Airtel was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to airtel@upi. Transaction ref: 907270532291.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to jio@upi. Transaction ref: 963268767101.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Jio, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to jio@upi. Transaction ref: 828236479796.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Jio, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to jio@upi. Transaction ref: 635661484746.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Jio, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to jio@upi. Transaction ref: 306823277527.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Jio, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to jio@upi. Transaction ref: 337497551698.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Jio, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to jio@upi. Transaction ref: 164290117190.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Jio, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to jio@upi. Transaction ref: 909941412032.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Jio, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to jio@upi. Transaction ref: 166753220112.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Jio, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to jio@upi. Transaction ref: 446809914267.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Jio, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to jio@upi. Transaction ref: 151785130539.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Jio, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to jio@upi. Transaction ref: 626495033786.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to jio@upi. Transaction ref: 683482989002.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Jio was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to jio@upi. Transaction ref: 160805710565.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to bookmyshow@upi. Transaction ref: 662472262434.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey BookMyShow, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to bookmyshow@upi. Transaction ref: 173812556182.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey BookMyShow, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to bookmyshow@upi. Transaction ref: 175570100353.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey BookMyShow, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to bookmyshow@upi. Transaction ref: 543391824534.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey BookMyShow, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to bookmyshow@upi. Transaction ref: 726594012825.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey BookMyShow, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to bookmyshow@upi. Transaction ref: 736712646676.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey BookMyShow, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to bookmyshow@upi. Transaction ref: 145503113302.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey BookMyShow, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to bookmyshow@upi. Transaction ref: 188559569253.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey BookMyShow, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to bookmyshow@upi. Transaction ref: 823355063011.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey BookMyShow, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to bookmyshow@upi. Transaction ref: 720982144012.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey BookMyShow, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to bookmyshow@upi. Transaction ref: 445842718357.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to bookmyshow@upi. Transaction ref: 387482374357.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to BookMyShow was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to bookmyshow@upi. Transaction ref: 835316694200.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to urbancompany@upi. Transaction ref: 446673404045.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Urban, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to urbancompany@upi. Transaction ref: 388787957213.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Urban, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to urbancompany@upi. Transaction ref: 243433808038.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Urban, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to urbancompany@upi. Transaction ref: 811554491388.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Urban, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to urbancompany@upi. Transaction ref: 603799651266.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Urban, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to urbancompany@upi. Transaction ref: 108901504899.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Urban, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to urbancompany@upi. Transaction ref: 784868121383.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Urban, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to urbancompany@upi. Transaction ref: 722763619778.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Urban, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to urbancompany@upi. Transaction ref: 211652384077.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Urban, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to urbancompany@upi. Transaction ref: 688725171936.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Urban, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to urbancompany@upi. Transaction ref: 654966271979.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to urbancompany@upi. Transaction ref: 242872947887.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Urban Company was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to urbancompany@upi. Transaction ref: 486260407870.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹100 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹100 sent to decathlon@upi. Transaction ref: 176797726849.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Decathlon, please send me ₹100 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹250 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹250 sent to decathlon@upi. Transaction ref: 370064409283.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Decathlon, please send me ₹250 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹450 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹450 sent to decathlon@upi. Transaction ref: 410824752082.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Decathlon, please send me ₹450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹500 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹500 sent to decathlon@upi. Transaction ref: 581713854648.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Decathlon, please send me ₹500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹750 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹750 sent to decathlon@upi. Transaction ref: 700581361458.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Decathlon, please send me ₹750 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1200 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1200 sent to decathlon@upi. Transaction ref: 433734162755.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Decathlon, please send me ₹1200 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹1450 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹1450 sent to decathlon@upi. Transaction ref: 989003396697.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Decathlon, please send me ₹1450 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹2000 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹2000 sent to decathlon@upi. Transaction ref: 682629391846.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Decathlon, please send me ₹2000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹3500 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹3500 sent to decathlon@upi. Transaction ref: 830178040304.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Decathlon, please send me ₹3500 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹5000 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹5000 sent to decathlon@upi. Transaction ref: 709099824282.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Hey Decathlon, please send me ₹5000 for the dinner split tonight.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹8000 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹8000 sent to decathlon@upi. Transaction ref: 214518382535.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹10000 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹10000 sent to decathlon@upi. Transaction ref: 388339584783.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your payment of ₹25000 to Decathlon was successful.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "₹25000 sent to decathlon@upi. Transaction ref: 916503502249.",
+    "label": "legitimate",
+    "category": "LEGITIMATE",
+    "language": "en"
+  },
+  {
+    "text": "Your State Bank of India account will be blocked today. Send ₹500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear State Bank of India customer, NetBanking access suspended. Send ₹500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "State Bank of India Alert: KYC expired. Deposit ₹500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your State Bank of India account will be blocked today. Send ₹1000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear State Bank of India customer, NetBanking access suspended. Send ₹1000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "State Bank of India Alert: KYC expired. Deposit ₹1000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your State Bank of India account will be blocked today. Send ₹2000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear State Bank of India customer, NetBanking access suspended. Send ₹2000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "State Bank of India Alert: KYC expired. Deposit ₹2000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your State Bank of India account will be blocked today. Send ₹2500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear State Bank of India customer, NetBanking access suspended. Send ₹2500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "State Bank of India Alert: KYC expired. Deposit ₹2500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your State Bank of India account will be blocked today. Send ₹5000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear State Bank of India customer, NetBanking access suspended. Send ₹5000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "State Bank of India Alert: KYC expired. Deposit ₹5000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your HDFC Bank account will be blocked today. Send ₹500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear HDFC Bank customer, NetBanking access suspended. Send ₹500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "HDFC Bank Alert: KYC expired. Deposit ₹500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your HDFC Bank account will be blocked today. Send ₹1000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear HDFC Bank customer, NetBanking access suspended. Send ₹1000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "HDFC Bank Alert: KYC expired. Deposit ₹1000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your HDFC Bank account will be blocked today. Send ₹2000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear HDFC Bank customer, NetBanking access suspended. Send ₹2000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "HDFC Bank Alert: KYC expired. Deposit ₹2000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your HDFC Bank account will be blocked today. Send ₹2500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear HDFC Bank customer, NetBanking access suspended. Send ₹2500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "HDFC Bank Alert: KYC expired. Deposit ₹2500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your HDFC Bank account will be blocked today. Send ₹5000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear HDFC Bank customer, NetBanking access suspended. Send ₹5000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "HDFC Bank Alert: KYC expired. Deposit ₹5000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your ICICI Bank account will be blocked today. Send ₹500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear ICICI Bank customer, NetBanking access suspended. Send ₹500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "ICICI Bank Alert: KYC expired. Deposit ₹500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your ICICI Bank account will be blocked today. Send ₹1000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear ICICI Bank customer, NetBanking access suspended. Send ₹1000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "ICICI Bank Alert: KYC expired. Deposit ₹1000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your ICICI Bank account will be blocked today. Send ₹2000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear ICICI Bank customer, NetBanking access suspended. Send ₹2000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "ICICI Bank Alert: KYC expired. Deposit ₹2000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your ICICI Bank account will be blocked today. Send ₹2500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear ICICI Bank customer, NetBanking access suspended. Send ₹2500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "ICICI Bank Alert: KYC expired. Deposit ₹2500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your ICICI Bank account will be blocked today. Send ₹5000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear ICICI Bank customer, NetBanking access suspended. Send ₹5000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "ICICI Bank Alert: KYC expired. Deposit ₹5000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Axis Bank account will be blocked today. Send ₹500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Axis Bank customer, NetBanking access suspended. Send ₹500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Axis Bank Alert: KYC expired. Deposit ₹500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Axis Bank account will be blocked today. Send ₹1000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Axis Bank customer, NetBanking access suspended. Send ₹1000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Axis Bank Alert: KYC expired. Deposit ₹1000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Axis Bank account will be blocked today. Send ₹2000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Axis Bank customer, NetBanking access suspended. Send ₹2000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Axis Bank Alert: KYC expired. Deposit ₹2000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Axis Bank account will be blocked today. Send ₹2500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Axis Bank customer, NetBanking access suspended. Send ₹2500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Axis Bank Alert: KYC expired. Deposit ₹2500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Axis Bank account will be blocked today. Send ₹5000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Axis Bank customer, NetBanking access suspended. Send ₹5000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Axis Bank Alert: KYC expired. Deposit ₹5000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Punjab National Bank account will be blocked today. Send ₹500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Punjab National Bank customer, NetBanking access suspended. Send ₹500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Punjab National Bank Alert: KYC expired. Deposit ₹500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Punjab National Bank account will be blocked today. Send ₹1000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Punjab National Bank customer, NetBanking access suspended. Send ₹1000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Punjab National Bank Alert: KYC expired. Deposit ₹1000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Punjab National Bank account will be blocked today. Send ₹2000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Punjab National Bank customer, NetBanking access suspended. Send ₹2000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Punjab National Bank Alert: KYC expired. Deposit ₹2000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Punjab National Bank account will be blocked today. Send ₹2500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Punjab National Bank customer, NetBanking access suspended. Send ₹2500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Punjab National Bank Alert: KYC expired. Deposit ₹2500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Punjab National Bank account will be blocked today. Send ₹5000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Punjab National Bank customer, NetBanking access suspended. Send ₹5000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Punjab National Bank Alert: KYC expired. Deposit ₹5000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Kotak Mahindra Bank account will be blocked today. Send ₹500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Kotak Mahindra Bank customer, NetBanking access suspended. Send ₹500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Kotak Mahindra Bank Alert: KYC expired. Deposit ₹500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Kotak Mahindra Bank account will be blocked today. Send ₹1000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Kotak Mahindra Bank customer, NetBanking access suspended. Send ₹1000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Kotak Mahindra Bank Alert: KYC expired. Deposit ₹1000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Kotak Mahindra Bank account will be blocked today. Send ₹2000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Kotak Mahindra Bank customer, NetBanking access suspended. Send ₹2000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Kotak Mahindra Bank Alert: KYC expired. Deposit ₹2000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Kotak Mahindra Bank account will be blocked today. Send ₹2500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Kotak Mahindra Bank customer, NetBanking access suspended. Send ₹2500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Kotak Mahindra Bank Alert: KYC expired. Deposit ₹2500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Kotak Mahindra Bank account will be blocked today. Send ₹5000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Kotak Mahindra Bank customer, NetBanking access suspended. Send ₹5000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Kotak Mahindra Bank Alert: KYC expired. Deposit ₹5000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Bank of Baroda account will be blocked today. Send ₹500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Bank of Baroda customer, NetBanking access suspended. Send ₹500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Bank of Baroda Alert: KYC expired. Deposit ₹500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Bank of Baroda account will be blocked today. Send ₹1000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Bank of Baroda customer, NetBanking access suspended. Send ₹1000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Bank of Baroda Alert: KYC expired. Deposit ₹1000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Bank of Baroda account will be blocked today. Send ₹2000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Bank of Baroda customer, NetBanking access suspended. Send ₹2000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Bank of Baroda Alert: KYC expired. Deposit ₹2000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Bank of Baroda account will be blocked today. Send ₹2500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Bank of Baroda customer, NetBanking access suspended. Send ₹2500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Bank of Baroda Alert: KYC expired. Deposit ₹2500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Bank of Baroda account will be blocked today. Send ₹5000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Bank of Baroda customer, NetBanking access suspended. Send ₹5000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Bank of Baroda Alert: KYC expired. Deposit ₹5000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Canara Bank account will be blocked today. Send ₹500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Canara Bank customer, NetBanking access suspended. Send ₹500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Canara Bank Alert: KYC expired. Deposit ₹500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Canara Bank account will be blocked today. Send ₹1000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Canara Bank customer, NetBanking access suspended. Send ₹1000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Canara Bank Alert: KYC expired. Deposit ₹1000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Canara Bank account will be blocked today. Send ₹2000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Canara Bank customer, NetBanking access suspended. Send ₹2000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Canara Bank Alert: KYC expired. Deposit ₹2000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Canara Bank account will be blocked today. Send ₹2500 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Canara Bank customer, NetBanking access suspended. Send ₹2500 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Canara Bank Alert: KYC expired. Deposit ₹2500 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Your Canara Bank account will be blocked today. Send ₹5000 immediately to verify your account.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Dear Canara Bank customer, NetBanking access suspended. Send ₹5000 unblock verification fee.",
+    "label": "scam",
+    "category": "BANK_PHISHING",
+    "language": "en"
+  },
+  {
+    "text": "Canara Bank Alert: KYC expired. Deposit ₹5000 verification charge to avoid account freeze.",
+    "label": "scam",
+    "category": "KYC_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Congratulations! You won ₹5000 prize in lucky draw. Pay ₹500 processing fee to claim.",
+    "label": "scam",
+    "category": "PRIZE_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "You have won ₹5000 cashback from PhonePe. Enter your UPI PIN to claim reward.",
+    "label": "scam",
+    "category": "CASHBACK_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Instant loan of ₹5000 approved with zero interest. Pay ₹1,500 file charges to release funds.",
+    "label": "scam",
+    "category": "LOAN_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Congratulations! You won ₹10000 prize in lucky draw. Pay ₹500 processing fee to claim.",
+    "label": "scam",
+    "category": "PRIZE_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "You have won ₹10000 cashback from PhonePe. Enter your UPI PIN to claim reward.",
+    "label": "scam",
+    "category": "CASHBACK_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Instant loan of ₹10000 approved with zero interest. Pay ₹1,500 file charges to release funds.",
+    "label": "scam",
+    "category": "LOAN_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Congratulations! You won ₹25000 prize in lucky draw. Pay ₹500 processing fee to claim.",
+    "label": "scam",
+    "category": "PRIZE_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "You have won ₹25000 cashback from PhonePe. Enter your UPI PIN to claim reward.",
+    "label": "scam",
+    "category": "CASHBACK_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Instant loan of ₹25000 approved with zero interest. Pay ₹1,500 file charges to release funds.",
+    "label": "scam",
+    "category": "LOAN_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Congratulations! You won ₹50000 prize in lucky draw. Pay ₹500 processing fee to claim.",
+    "label": "scam",
+    "category": "PRIZE_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "You have won ₹50000 cashback from PhonePe. Enter your UPI PIN to claim reward.",
+    "label": "scam",
+    "category": "CASHBACK_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Instant loan of ₹50000 approved with zero interest. Pay ₹1,500 file charges to release funds.",
+    "label": "scam",
+    "category": "LOAN_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Congratulations! You won ₹100000 prize in lucky draw. Pay ₹500 processing fee to claim.",
+    "label": "scam",
+    "category": "PRIZE_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "You have won ₹100000 cashback from PhonePe. Enter your UPI PIN to claim reward.",
+    "label": "scam",
+    "category": "CASHBACK_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Instant loan of ₹100000 approved with zero interest. Pay ₹1,500 file charges to release funds.",
+    "label": "scam",
+    "category": "LOAN_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Congratulations! You won ₹2500000 prize in lucky draw. Pay ₹500 processing fee to claim.",
+    "label": "scam",
+    "category": "PRIZE_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "You have won ₹2500000 cashback from PhonePe. Enter your UPI PIN to claim reward.",
+    "label": "scam",
+    "category": "CASHBACK_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Instant loan of ₹2500000 approved with zero interest. Pay ₹1,500 file charges to release funds.",
+    "label": "scam",
+    "category": "LOAN_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "Please tell me the 6-digit OTP to reverse the accidental transfer.",
+    "label": "scam",
+    "category": "OTP_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Tell the OTP sent by your bank to cancel unauthorized transaction.",
+    "label": "scam",
+    "category": "OTP_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Bank manager needs your OTP code to verify mobile banking update.",
+    "label": "scam",
+    "category": "OTP_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Share SMS OTP code to confirm your package re-delivery.",
+    "label": "scam",
+    "category": "OTP_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Enter OTP code on phone to unfreeze blocked debit card.",
+    "label": "scam",
+    "category": "OTP_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Provide OTP received from UIDAI to confirm Aadhaar KYC update.",
+    "label": "scam",
+    "category": "OTP_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Enter your UPI PIN to receive money into your bank account.",
+    "label": "scam",
+    "category": "PIN_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Type your 6-digit UPI PIN to claim ₹2,000 cashback on Google Pay.",
+    "label": "scam",
+    "category": "PIN_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "To accept payment on PhonePe, please enter your UPI PIN now.",
+    "label": "scam",
+    "category": "PIN_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "Enter your ATM PIN on this verification form to unlock internet banking.",
+    "label": "scam",
+    "category": "PIN_THEFT",
+    "language": "en"
+  },
+  {
+    "text": "India Post: Address incomplete for parcel #IN981240. Pay ₹25 address update fee at http://post-in.top",
+    "label": "scam",
+    "category": "DELIVERY_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "BlueDart: Your parcel delivery is held at transit hub. Pay ₹50 delivery re-attempt charge.",
+    "label": "scam",
+    "category": "DELIVERY_SCAM",
+    "language": "en"
+  },
+  {
+    "text": "DTDC Courier: Pay customs clearance charge of ₹200 to dispatch pending package.",
+    "label": "scam",
+    "category": "DELIVERY_SCAM",
+    "language": "en"
+  }
+]

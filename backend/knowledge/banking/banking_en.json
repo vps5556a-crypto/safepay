@@ -1,0 +1,55 @@
+[
+  {
+    "id": "bank-en-001",
+    "language": "en",
+    "category": "banking",
+    "intent": "balance_check",
+    "question": "How do I check my bank balance?",
+    "answer": "You can check your available balance directly on the SafePay home screen inside the balance card. You can tap the eye icon to show or hide the numbers.",
+    "simple_answer": "Look at the big blue card at the top of your home screen. It shows your 'Available Balance' (the money currently in your account).",
+    "steps": [
+      "Go to the Home screen",
+      "Look at the top card",
+      "Tap the eye icon if numbers are hidden"
+    ],
+    "safety_warning": null,
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "bank-en-002",
+    "language": "en",
+    "category": "banking",
+    "intent": "transaction_history",
+    "question": "Where can I see past payments or money I sent?",
+    "answer": "Past payments appear on your home screen under Recent Transactions and also in the Safety Center where every transaction has a full security breakdown.",
+    "simple_answer": "Scroll down on the Home screen to 'Recent Transactions'. You will see all money you sent or received with dates and amounts.",
+    "steps": [
+      "Go to Home screen",
+      "Scroll down to 'Recent Transactions'",
+      "Tap on any payment to see full details"
+    ],
+    "safety_warning": null,
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "bank-en-003",
+    "language": "en",
+    "category": "banking",
+    "intent": "recipient_help",
+    "question": "What does beneficiary mean?",
+    "answer": "In banking, beneficiary simply means the person or shop you are sending money to.",
+    "simple_answer": "'Beneficiary' just means the person you want to give money to, like your friend Ravi or your local shopkeeper.",
+    "steps": [
+      "Check that the person's name matches who you want to pay",
+      "Confirm their UPI phone number before sending"
+    ],
+    "safety_warning": null,
+    "source": "SafePay Simplification",
+    "source_type": "official",
+    "verified": true
+  }
+]

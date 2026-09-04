@@ -1,0 +1,57 @@
+[
+  {
+    "id": "app-en-001",
+    "language": "en",
+    "category": "app_help",
+    "intent": "simple_mode",
+    "question": "How do I turn on Simple Mode?",
+    "answer": "You can turn on Simple Mode by tapping the 'Normal / Simple' eye button in the top right corner of the header. It enlarges text and buttons for easier reading.",
+    "simple_answer": "Look at the top right of your screen. Tap the button that says 'Simple'. The buttons will get bigger and words will become very easy to read.",
+    "steps": [
+      "Tap 'Simple' in top right header",
+      "Text and buttons will enlarge immediately",
+      "Tap it again anytime to switch back"
+    ],
+    "safety_warning": null,
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "app-en-002",
+    "language": "en",
+    "category": "app_help",
+    "intent": "voice_help",
+    "question": "How do I use voice to talk to SafePay?",
+    "answer": "Tap the floating microphone or 'Ask SafePay' button at the bottom right. You can speak in English, Hindi, or Tamil and SafePay will understand and respond aloud.",
+    "simple_answer": "Tap the purple microphone icon on your screen. When it turns blue, speak clearly. SafePay will listen, show what you said, and speak back.",
+    "steps": [
+      "Tap the microphone button",
+      "Speak your question clearly",
+      "Confirm what you said on screen",
+      "SafePay will answer and guide you"
+    ],
+    "safety_warning": null,
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "app-en-003",
+    "language": "en",
+    "category": "app_help",
+    "intent": "screen_explanation",
+    "question": "What does this screen mean and what should I press?",
+    "answer": "SafePay Assistant is screen-aware. It identifies whether you are on Home, Send Money, Payment Review, Messages, or Safety Center and points out the exact next step.",
+    "simple_answer": "Tell me what screen you are looking at or ask 'What should I do?'. I will look at your screen and tell you the single right button to press next.",
+    "steps": [
+      "Ask 'What is this screen?'",
+      "I will highlight the recommended action",
+      "You stay in full control"
+    ],
+    "safety_warning": null,
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  }
+]

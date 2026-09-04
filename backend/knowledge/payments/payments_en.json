@@ -1,0 +1,93 @@
+[
+  {
+    "id": "pay-en-001",
+    "language": "en",
+    "category": "payments",
+    "intent": "payment_send",
+    "question": "How do I send money to someone?",
+    "answer": "To send money, tap the Send Money button on the home screen, select or enter the recipient's name or UPI ID, enter the amount, review the safety check, and tap Confirm Payment.",
+    "simple_answer": "Tap the blue 'Send Money' button. Tell me who you want to pay and how much. I will help you check the details before you pay.",
+    "steps": [
+      "Tap Send Money",
+      "Choose who to send money to",
+      "Enter the amount",
+      "Check recipient name and amount carefully",
+      "Tap Confirm Payment"
+    ],
+    "safety_warning": "Always double-check the recipient's name before sending money.",
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "pay-en-002",
+    "language": "en",
+    "category": "payments",
+    "intent": "payment_failed",
+    "question": "Why did my payment fail?",
+    "answer": "Payments can fail due to insufficient account balance, bank server downtime, incorrect recipient details, or security blocks.",
+    "simple_answer": "Your payment did not go through. Don't worry, no money was deducted. Check if you have enough balance or try again in a few minutes.",
+    "steps": [
+      "Check your account balance",
+      "Check your internet connection",
+      "Wait 5 minutes and try again if bank servers were busy"
+    ],
+    "safety_warning": null,
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "pay-en-003",
+    "language": "en",
+    "category": "payments",
+    "intent": "payment_pending",
+    "question": "Why is my payment showing pending?",
+    "answer": "A pending payment means the bank is processing the transfer. It usually completes within a few minutes or reverses automatically within 24 hours.",
+    "simple_answer": "Your bank is taking a moment to finish the transfer. Please wait a few minutes. If it does not complete, your money will safely come back to your account.",
+    "steps": [
+      "Do not send the money again immediately",
+      "Check your transaction history after 5 minutes",
+      "Check with your bank if not updated in 24 hours"
+    ],
+    "safety_warning": "Do not pay twice for the same purchase while a payment is pending.",
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "pay-en-004",
+    "language": "en",
+    "category": "payments",
+    "intent": "payment_reversed",
+    "question": "What does payment reversed mean?",
+    "answer": "A payment reversal means the money was returned to your bank account because the recipient's bank could not receive it.",
+    "simple_answer": "The money was returned back into your account. The other person did not receive it. Your balance is restored.",
+    "steps": [
+      "Check your balance to confirm the money is back",
+      "Verify the recipient details before trying again"
+    ],
+    "safety_warning": null,
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "pay-en-005",
+    "language": "en",
+    "category": "payments",
+    "intent": "large_payment",
+    "question": "What is large payment authentication?",
+    "answer": "For large payments above the threshold, SafePay requires extra security verification to protect your life savings from unauthorized transfers or coercion.",
+    "simple_answer": "When you send a large amount of money, we ask for an extra security check. This keeps your hard-earned money safe from theft.",
+    "steps": [
+      "Review the large amount carefully",
+      "Confirm you know the person you are paying",
+      "Complete the security verification"
+    ],
+    "safety_warning": "Stop immediately if someone on a phone call is telling you to send this large payment.",
+    "source": "SafePay Guidance",
+    "source_type": "official",
+    "verified": true
+  }
+]

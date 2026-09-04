@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fin-en-001",
+    "language": "en",
+    "category": "financial_literacy",
+    "intent": "financial_literacy",
+    "question": "What is interest and savings?",
+    "answer": "Savings is money you keep safely in your bank account for future needs. Interest is extra reward money the bank pays you for keeping your savings with them.",
+    "simple_answer": "Savings is money you put away for tomorrow. The bank gives you a little extra money (called interest) as a thank you for keeping your money in their care.",
+    "steps": [
+      "Keep money in savings account",
+      "Earn small interest automatically every 3 months"
+    ],
+    "safety_warning": null,
+    "source": "RBI Financial Literacy",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "fin-en-002",
+    "language": "en",
+    "category": "financial_literacy",
+    "intent": "financial_literacy",
+    "question": "What is an EMI or loan?",
+    "answer": "A loan is money borrowed from a bank that you must repay over time. EMI (Equated Monthly Installment) is the fixed portion you pay back each month until the full loan is cleared.",
+    "simple_answer": "A loan is money borrowed from a bank. EMI is a fixed monthly payment you make each month until that borrowed money is paid off.",
+    "steps": [
+      "Borrow only what you can repay",
+      "Pay EMI on time each month to avoid extra charges"
+    ],
+    "safety_warning": "Beware of fake loan apps that ask for upfront processing fees on WhatsApp or telegram.",
+    "source": "RBI Financial Literacy",
+    "source_type": "official",
+    "verified": true
+  },
+  {
+    "id": "fin-en-003",
+    "language": "en",
+    "category": "financial_literacy",
+    "intent": "financial_literacy",
+    "question": "What is credit score?",
+    "answer": "A credit score (like CIBIL) is a number between 300 and 900 showing banks how reliably you repay loans and bills on time.",
+    "simple_answer": "A credit score is like your financial report card. When you pay your loans and bills on time, your score goes up and banks trust you more.",
+    "steps": [
+      "Pay bills and EMIs before the due date",
+      "A score above 750 helps you get cheaper bank loans"
+    ],
+    "safety_warning": null,
+    "source": "RBI Financial Literacy",
+    "source_type": "official",
+    "verified": true
+  }
+]
